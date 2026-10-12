@@ -30,6 +30,11 @@ A Python Email Extractor built as part of my CodeAlpha Python Programming Intern
 
 ## Author
 
-Meshack(@mt100-bit)
+## Author
+
+[**Meshack**](https://github.com/mt100-bit)
+
+Python Programming Intern — CodeAlpha
+
 
 Python Programming Intern — CodeAlpha
