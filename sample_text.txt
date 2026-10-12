@@ -1,0 +1,11 @@
+Hello, my name is John, and I am learning Python programming.
+
+You can contact me at [john@gmail.com](mailto:john@gmail.com) for more information.
+
+Our technical support email is [support@example.com](mailto:support@example.com).
+
+For business enquiries, please contact [business@company.org](mailto:business@company.org).
+
+You can also reach our project manager at [manager123@yahoo.com](mailto:manager123@yahoo.com).
+
+Thank you for reading this message. Have a great day!
