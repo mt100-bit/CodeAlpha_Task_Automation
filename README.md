@@ -28,7 +28,6 @@ A Python Email Extractor built as part of my CodeAlpha Python Programming Intern
    python email_extractor.py
    ```
 
-## Author
 
 ## Author
 
